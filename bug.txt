@@ -1,0 +1,16 @@
+Bugs
+
+
+Add Money
+
+ - Space kullanıldığında ekran donuyor ve "Opss! Something went wrong" ekranına geçiyor"
+ - Too long hatası alınca (fazla karakter girince) ekran yine donuyor
+ - Eklenen miktar +200 olarak yansıyor
+
+
+Transfer Money
+
+    - Transfer edilen miktar +100 olarak ynasıyor
+    - Gönderici hesap değişince alert çıkıyor
+
+
